@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>qrb_vision_manager</name>
+  <version>1.0.0</version>
+  <description>QRB Vision manager</description>
+
+  <maintainer email="quic_zhanlin@quicinc.com">zhanlin</maintainer>
+
+  <license>BSD-3-Clause-Clear</license>
+
+  <buildtool_depend>ament_cmake_auto</buildtool_depend>
+
+  <depend>yaml-cpp</depend>
+  <depend>OpenCV</depend>
+  <depend>ZBar</depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
