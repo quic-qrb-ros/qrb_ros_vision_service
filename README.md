@@ -2,7 +2,7 @@
 
 ## Overview
 
-`qrb_ros_vision_service` is a ROS2 package designed to help developers quickly develop on the QRB platform.
+`qrb_ros_vision_service` is a ROS2 package designed to help developers quickly develop vision feature on the QRB platform.
 It assists developers in rapidly setting up vision-related pipelines and currently supports functions
 such as object detection, camera, video processing, and QR code recognition.
 
